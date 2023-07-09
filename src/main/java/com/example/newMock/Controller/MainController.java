@@ -29,6 +29,7 @@ public class MainController {
             String clientId = requestDTO.getClientId();
             char firstDigit = clientId.charAt(0);
             BigDecimal maxLimit;
+            String my = "123";
         }
     }
 }
